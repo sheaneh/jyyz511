@@ -5,16 +5,16 @@
  `永遠￡51.1` 创建于2006年10月，是一个以班级为主题的网站。
 
 ## 使用语言
-1.前端脚本
+### 前端脚本
  - VBScript
  - JavaScript
  - ActionScript
  - JScript
  - WYJScript
-2.后端脚本
+### 后端脚本
  - PHP 5.2+
  - ASP
-3.使用框架
+### 使用框架
  - WYJS2008
 
 ## 兼容性
